@@ -1,0 +1,8 @@
+.employee_card{
+    border: 1px solid red;
+    display: block;
+    margin: auto;
+    width: 40%;
+    text-align: center;
+    margin-top: 10px;
+}
